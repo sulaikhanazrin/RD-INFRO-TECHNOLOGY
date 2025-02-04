@@ -13,18 +13,29 @@ I am privileged to be a part of this esteemed organization, where I have been ab
 ### Projects Overview
 **1. Titanic Survival Prediction**
 Developed a predictive model to determine the likelihood of survival for Titanic passengers based on various attributes such as age, gender, and passenger class.
+
 Applied data preprocessing, feature engineering, and classification algorithms like Logistic Regression and Random Forest.
+
 **2. Movie Rating Prediction with Python**
+
 Built a machine learning model to predict movie ratings based on features such as genre, user preferences, and historical ratings.
+
 Utilized collaborative filtering and sentiment analysis to improve prediction accuracy.
+
 **3. Iris Flower Classification**
+
 Designed a classification model to identify different iris flower species based on sepal and petal measurements.
+
 Implemented machine learning algorithms like Decision Trees and Support Vector Machines (SVM).
+
 **4. Sales Prediction Using Python**
 Conducted an analysis of historical sales data to forecast future trends and optimize business strategies.
+
 Used regression models and time-series analysis for accurate sales predictions.
+
 **5. Credit Card Fraud Detection**
 Developed a fraud detection system to identify suspicious credit card transactions.
+
 Leveraged machine learning techniques such as anomaly detection, oversampling (SMOTE), and ensemble modeling for better accuracy.
 
 
